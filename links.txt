@@ -2,5 +2,13 @@
 
 API Key: 6c50870ad875d1e3651502fa4f2b0834
 
+Base URL: https://api.themoviedb.org/3
+
 example of api request
-https://api.themoviedb.org/3/movie/550?api_key=6c50870ad875d1e3651502fa4f2b0834
+https://api.themoviedb.org/3/550?api_key=6c50870ad875d1e3651502fa4f2b0834
+
+anthor example
+https://api.themoviedb.org/3/now_playing?api_key=6c50870ad875d1e3651502fa4f2b0834
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=6c50870ad875d1e3651502fa4f2b0834
